@@ -1,24 +1,34 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+    body{
+        background-color: #363740;
+    }
 
    .container{
       padding: 15px;
    }
 
+    h2{
+        color: #656978;
+        text-shadow: 0px 1px #e8e8e8;
+        font-weight: bolder;
+
+    }
    .board{
+        position: relative;
    		background-color: #A2A5BF;
    		text-align: center;
-        color:#222222;
         font-weight: bold;
         box-shadow: 0px 5px 0px 0px #6C6E7F;
-        text-shadow: 2px 2px #A2A5BF;
+        text-shadow: 0px 1px #A2A5BF;
 
    }
 
    ul{
+      position: relative;
       padding: 10px;
-      height: 400px;
+      min-height: 400px;
       background-color: #C2C6E5;
       box-shadow: 0px 5px 0px 0px #656978;
    }
@@ -31,20 +41,18 @@
        background-color: #656978;
        box-shadow: 0px 5px 0px 0px #32353d;
        margin-bottom: 10px;
-
+       font-size: 1.5em;
    }
 
    .form{
        background-color: #C2C6E5;
        margin-top: 25px;
        text-align: center;
-   }
-   .form button{
-       margin: 20px;
+       box-shadow: 0px 5px 0px 0px #656978;
    }
 
-   body{
-   		background-color: #363740;
+   .form button{
+       margin: 20px;
    }
 
 

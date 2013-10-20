@@ -6,8 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/server.js" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382296222374" ignored="false" />
     <file path="$PROJECT_DIR$/../Chat/nodejs-express-socketio-chatroom/server.js" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382295808646" ignored="false" />
-    <file path="/main.css" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382298970986" ignored="false" />
-    <file path="/main.js" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382297316966" ignored="false" />
+    <file path="/main.css" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382302244149" ignored="false" />
+    <file path="/main.js" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382301019354" ignored="false" />
     <file path="/index.jade" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382298123183" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="29" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
+            <state line="9" column="22" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -40,7 +40,7 @@
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="43" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+            <state line="33" column="0" selection-start="1021" selection-end="1021" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="22" selection-start="413" selection-end="413" vertical-scroll-proportion="0.39650145">
+            <state line="6" column="11" selection-start="236" selection-end="236" vertical-scroll-proportion="0.2973761">
               <folding />
             </state>
           </provider>
@@ -58,7 +58,7 @@
       <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="25" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
+            <state line="25" column="14" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,8 +91,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1" />
-    <option name="y" value="178" />
+    <option name="x" value="-7" />
+    <option name="y" value="104" />
     <option name="width" value="1345" />
     <option name="height" value="705" />
   </component>
@@ -335,6 +335,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -345,9 +348,29 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="C:/Program Files/nodejs/node" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" name="Default" comment="" />
@@ -357,7 +380,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="178" width="1345" height="705" extended-state="0" />
+    <frame x="-7" y="104" width="1345" height="705" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -439,13 +462,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="29" selection-start="605" selection-end="605" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/jade/node_modules/constantinople/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -453,23 +469,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="22" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+        <state line="33" column="0" selection-start="1021" selection-end="1021" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="25" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
+        <state line="25" column="14" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="22" selection-start="413" selection-end="413" vertical-scroll-proportion="0.39650145">
+        <state line="6" column="11" selection-start="236" selection-end="236" vertical-scroll-proportion="0.2973761">
           <folding />
         </state>
       </provider>
