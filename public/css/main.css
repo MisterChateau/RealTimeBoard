@@ -1,0 +1,65 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+   .container{
+      padding: 15px;
+   }
+
+   .board{
+   		background-color: #A2A5BF;
+   		text-align: center;
+        color:#222222;
+        font-weight: bold;
+        box-shadow: 0px 5px 0px 0px #6C6E7F;
+        text-shadow: 2px 2px #A2A5BF;
+
+   }
+
+   ul{
+      padding: 10px;
+      height: 400px;
+      background-color: #C2C6E5;
+      box-shadow: 0px 5px 0px 0px #656978;
+   }
+
+   li{
+       width: 100%;
+       padding: 10px;
+       list-style: none;
+       color:#222222;
+       background-color: #656978;
+       box-shadow: 0px 5px 0px 0px #32353d;
+       margin-bottom: 10px;
+
+   }
+
+   .form{
+       background-color: #C2C6E5;
+       margin-top: 25px;
+       text-align: center;
+   }
+   .form button{
+       margin: 20px;
+   }
+
+   body{
+   		background-color: #363740;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
