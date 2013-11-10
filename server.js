@@ -25,6 +25,7 @@ app.get("/", function(req, res){
 );
 
 app.post("/topic", function(req, res) {
+    console.log("===>New Topic Created");
 	var msg = req.body.topic;
 	io.sockets.emit("newTopic", msg);
 });
