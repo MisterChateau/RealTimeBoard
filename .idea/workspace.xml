@@ -2,25 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\affix.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\button.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\transition.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Bobby\Desktop\rtboard\public\js\vendor\bootstrap.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/tests/index.html" afterPath="$PROJECT_DIR$/public/js/tests/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/main.css" afterPath="$PROJECT_DIR$/public/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/main.js" afterPath="$PROJECT_DIR$/public/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rtboard.iws" />
@@ -34,7 +15,7 @@
     <file path="/index.php" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382387589203" ignored="false" />
     <file path="C:/wamp/www/wp-content/themes/onepage/header.php" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382387480731" ignored="false" />
     <file path="/header.php" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1382386173392" ignored="false" />
-    <file path="/Dummy.txt" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1384070385613" ignored="false" />
+    <file path="/Dummy.txt" changelist="e1f5ac1c-4f4c-4d03-8f5c-4d985c4f8312" time="1384070458034" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,6 +302,11 @@
       <created>1382295411048</created>
       <updated>1382295411048</updated>
     </task>
+    <task id="LOCAL-00001" summary="integrate with backbone">
+      <created>1384070483164</created>
+      <updated>1384070483164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
